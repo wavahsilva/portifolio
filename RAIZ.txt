@@ -1,0 +1,23 @@
+PROJECT
+assets\css\style.css
+layouts\footer.php e header.php
+Index.php
+show_zodiac_sign.php
+signos.xml
+
+
+
+
+
+
+apareceu essa tela é porque o xampp está ok;
+
+pronto, toda nossa estrutura está ok;
+
+vamos testar o index.php para saber se está funcionando!!!
+
+php funcionando!!!
+
+agora, vamos apenas copia os códigos e colar
+
+pronto, agora vamos testa o script
